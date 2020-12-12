@@ -7,8 +7,8 @@
 - Computer Vision on Robotis
   
 #### 🔭 I’m currently working on ...
-- Graduation Project on Ewha Womans University (2020.09~)
-- OpenSWPlatform Team Project based on HTML-Apache-Firebase (2020.10~)
+- Graduation Project on Ewha Womans University (2020.09~ Expected 2021.06)
+- OpenSWPlatform Team Project based on HTML-Apache-Firebase (2020.10~2020.12)
 - BigDataApplication Team Project based on Bootstrap-Apache-MySQL (2020.10~2020.11) Done!!
 
 <!--
