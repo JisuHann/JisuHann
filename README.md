@@ -4,12 +4,10 @@
 - Junior Computer Science Student in Ewha Womans Univeristy, South Korea (2018.03~)
 
 #### 🌱 I’m currently Interested in ...
-- Computer Vision on Robotis
+- Computer Vision on Robotics
   
 #### 🔭 I’m currently working on ...
 - Graduation Project on Ewha Womans University (2020.09~ Expected 2021.06)
-- OpenSWPlatform Team Project based on HTML-Apache-Firebase (2020.10~2020.12)Done!!
-- BigDataApplication Team Project based on Bootstrap-Apache-MySQL (2020.10~2020.11) Done!!
 
 <!--
 **JisuHann/JisuHann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
