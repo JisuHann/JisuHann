@@ -1,7 +1,7 @@
 ### 👋 Jisu Han(@JisuHann)
 
 #### 📚 Education
-- Senior Computer Science Student in Ewha Womans Univeristy, South Korea (2018.03~)
+- Senior Computer Science Student in Ewha Womans University, South Korea (2018.03~)
 
 #### 🌱 I’m currently Interested in ...
 - Computer Vision on Robotics
