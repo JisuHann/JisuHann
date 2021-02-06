@@ -1,6 +1,3 @@
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=js8662)](https://solved.ac/js8662)
-
-
 ### 👋 Jisu Han(@JisuHann)
 
 #### 📚 Education
@@ -13,6 +10,15 @@
 - Seoul National University Dynamic Robotic Systems Lab Intern (2021.01 ~ )
 - Graduation Project on Ewha Womans University (2020.09~ Expected 2021.06)
 
+---
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=JisuHann&theme=react&show_icons=true" height="180px">
+</a>
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JisuHann&theme=react&exclude_repo=Jagi,assignment&layout=compact" height="180px">
+</a>
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=Jisu Han)](https://solved.ac/js8662)
 <!--
 **JisuHann/JisuHann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
