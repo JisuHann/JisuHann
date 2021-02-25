@@ -12,10 +12,10 @@
 
 ---
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=JisuHann&theme=react&show_icons=true" height="180px">
+  <img src="https://github-readme-stats.vercel.app/api?username=JisuHann&theme=react&show_icons=true" height="150px">
 </a>
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JisuHann&theme=react&exclude_repo=Jagi,assignment&layout=compact" height="180px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JisuHann&theme=react&exclude_repo=Jagi,assignment&layout=compact" height="150px">
 </a>  
 
 
