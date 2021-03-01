@@ -1,18 +1,18 @@
 ### 👋 Jisu Han(@JisuHann)
 
 #### 📚 Education
-- Senior Computer Science Student in Ewha Womans University, South Korea (2018.03~)
+- Senior Computer Science Student in Ewha Womans University, South Korea (2018.03 ~ Present)
 
 #### 🌱 I’m currently Interested in ...
 - Computer Vision on Robotics
 
-#### 🔭 I worked on...
-- Ewha Womans University Undergraduate Program (2019.08 ~ 2019.12)
-- Seoul National University Dynamic Robotic Systems Lab Intern (2021.01 ~ 2021.02)
-  
 #### 🔥 I’m currently working on ...
+- Seoul National University Dynamic Robotic Systems Lab Intern (2021.01 ~ Present)
 - Graduation Project on Ewha Womans University (2020.09~ Expected 2021.06)
 
+#### 🔭 I worked on...
+- Ewha Womans University Undergraduate Program (2019.08 ~ 2019.12)
+  
 ---
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=JisuHann&theme=react&show_icons=true" height="180px">
