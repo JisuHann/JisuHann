@@ -4,14 +4,14 @@
 - Senior Computer Science Student in Ewha Womans University, South Korea (2018.03 ~ Present)
 
 #### 🌱 I’m currently Interested in ...
-- Computer Vision on Robotics
+- Computer Vision on Robotics | Reinforcement Learning | MultiModal AI
 
 #### 🔥 I’m currently working on ...
 - Seoul National University Dynamic Robotic Systems Lab Intern (2021.01 ~ Present)
 - Graduation Project on Ewha Womans University (2020.09~ Expected 2021.06)
 
 #### 🔭 I worked on...
-- Ewha Womans University Undergraduate Program (2019.08 ~ 2019.12)
+- Ewha Womans University Undergraduate Research Program (2019.08 ~ 2019.12)
   
 ---
 <a href="#">
