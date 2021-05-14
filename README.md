@@ -4,8 +4,9 @@
   <a href="https://jisuhan.tistory.com">Blog</a> •
   <a href="https://github.com/JisuHann">Github</a> 
 </p>
+
 #### 📚 Education
-- Senior Computer Science Student in Ewha Womans University, South Korea (2018.03 ~ Present)
+- Senior Computer Science Student in Ewha Womans University, South Korea
 - Minor Major in Electrical and Electronic Engineering
 
 #### 🌱 I’m currently Interested in ...
