@@ -1,6 +1,6 @@
 ### 👋 Jisu Han(@JisuHann)
 <p align="center">
-<a href = "https://drive.google.com/file/d/1NVHfq7JCWa91_oca4-3VKIcH8PNzrV5Z/view?usp=sharing">CV</a> •
+<a href = "https://drive.google.com/file/d/15nGIpHSYMH4SItSH9B4bWhh7Mr6lDnf9/view?usp=sharing">CV</a> •
   <a href="https://jisuhan.tistory.com">Blog</a> •
   <a href="https://github.com/JisuHann">Github</a> 
 </p>
