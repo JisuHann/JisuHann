@@ -23,13 +23,13 @@
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=JisuHann&theme=react&show_icons=true" height="180px">
 </a>
-<a href="#">
+<!--<a href="#">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JisuHann&theme=react&exclude_repo=Jagi,assignment&layout=compact" height="180px">
 </a>  
 
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=js8662)](https://solved.ac/js8662)
-<!--
+
 **JisuHann/JisuHann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
