@@ -13,11 +13,12 @@
 - Computer Vision on Robotics | Reinforcement Learning | MultiModal AI
 
 #### 🔥 I’m currently working on ...
-- Seoul National University Dynamic Robotic Systems Lab Intern (2021.01 ~ Present)
-- Graduation Project on Ewha Womans University (2020.09~ Expected 2021.06)
+- Seoul National University Dynamic Robotic Systems Lab Intern (2021.01 ~ Present) [Repo](https://github.com/JisuHann/Deep-Learning-Repo)
+- Graduation Project on Ewha Womans University (2020.09~ Expected 2021.06) [Repo](https://github.com/MEME-Phoenix/Autonomous-Driving-Cart-MEME)
+- Review DeepLearning Paper [Repo](https://github.com/JisuHann/Deep-Learning-Repo)
 
 #### 🔭 I worked on...
-- Ewha Womans University Undergraduate Research Program (2019.08 ~ 2019.12)
+- Ewha Womans University Undergraduate Research Program (2019.08 ~ 2019.12) [Repo](https://github.com/JisuHann/Point-Cloud-Grasp)
   
 ---
 <a href="#">
