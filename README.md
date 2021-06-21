@@ -13,7 +13,7 @@
 - Computer Vision on Robotics | Reinforcement Learning | MultiModal AI
 
 #### 🔥 I’m currently working on ...
-- KAIST Intelligent Mobile Manipulation Lab Intern (2021.07 ~ Present)
+<!--- KAIST Intelligent Mobile Manipulation Lab Intern (2021.07 ~ Present)-->
 - Review DeepLearning Paper [Repo](https://github.com/JisuHann/Deep-Learning-Repo)
 
 #### 🔭 I worked on...
